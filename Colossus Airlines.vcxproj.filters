@@ -26,5 +26,8 @@
     <ClCompile Include="AssignSeat.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ConfirmSeat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
