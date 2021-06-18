@@ -41,5 +41,8 @@
     <ClCompile Include="GetLetter.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GetName.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
