@@ -62,5 +62,8 @@
     <ClCompile Include="PrintMenu.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ResetFlight.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
