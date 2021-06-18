@@ -38,5 +38,8 @@
     <ClCompile Include="EmptySeatNumber.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GetLetter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
