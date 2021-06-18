@@ -157,6 +157,7 @@
     <ClCompile Include="NoLine.c" />
     <ClCompile Include="PrintMenu.c" />
     <ClCompile Include="ResetFlight.c" />
+    <ClCompile Include="SeatList.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

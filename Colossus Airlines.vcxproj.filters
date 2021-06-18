@@ -65,5 +65,8 @@
     <ClCompile Include="ResetFlight.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SeatList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
