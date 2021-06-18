@@ -47,5 +47,8 @@
     <ClCompile Include="init.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IntegerInput.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

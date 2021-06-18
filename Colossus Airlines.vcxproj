@@ -150,6 +150,7 @@
     <ClCompile Include="GetLetter.c" />
     <ClCompile Include="GetName.c" />
     <ClCompile Include="init.c" />
+    <ClCompile Include="IntegerInput.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
