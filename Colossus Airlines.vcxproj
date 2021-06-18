@@ -152,6 +152,7 @@
     <ClCompile Include="init.c" />
     <ClCompile Include="IntegerInput.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="MainMenu.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
