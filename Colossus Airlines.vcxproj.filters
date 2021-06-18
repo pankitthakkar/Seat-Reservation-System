@@ -29,5 +29,8 @@
     <ClCompile Include="ConfirmSeat.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DeleteSeat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
