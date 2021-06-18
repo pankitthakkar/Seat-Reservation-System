@@ -35,5 +35,8 @@
     <ClCompile Include="EmptySeatList.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="EmptySeatNumber.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

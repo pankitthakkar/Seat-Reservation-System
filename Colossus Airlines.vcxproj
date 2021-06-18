@@ -146,6 +146,7 @@
     <ClCompile Include="ConfirmSeat.c" />
     <ClCompile Include="DeleteSeat.c" />
     <ClCompile Include="EmptySeatList.c" />
+    <ClCompile Include="EmptySeatNumber.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
