@@ -154,6 +154,7 @@
     <ClCompile Include="main.c" />
     <ClCompile Include="MainMenu.c" />
     <ClCompile Include="MainSelection.c" />
+    <ClCompile Include="NoLine.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
