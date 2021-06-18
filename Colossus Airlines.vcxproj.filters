@@ -53,5 +53,8 @@
     <ClCompile Include="MainMenu.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MainSelection.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
