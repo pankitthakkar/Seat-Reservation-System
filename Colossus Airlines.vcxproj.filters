@@ -68,5 +68,8 @@
     <ClCompile Include="SeatList.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Selection.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
